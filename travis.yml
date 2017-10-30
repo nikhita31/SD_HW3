@@ -1,0 +1,5 @@
+language: java
+script: mvn clean compile -DskiptTests
+notifications:
+  email:
+    - nikhita.singh.s03@gmail.com
